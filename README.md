@@ -1,4 +1,4 @@
 # my-project
 for my  self
 
-## project Notes
+## Project Notes
